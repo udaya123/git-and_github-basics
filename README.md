@@ -15,7 +15,7 @@
 #### Put Your Knowledge to Practice
 > Now that you understand the start.
 
->1. Pull down your forked copy of this repository.
+>
 2. Update this markdown file to replace the following image with an image of your choosing. I hear [Giphy](http://giphy.com/) has some pretty great stuff.
 3. Take a moment to blog below why version control is important to you. Put your own spin on your explanation.
 4. Commit your changes with a brief and meaningful message.
