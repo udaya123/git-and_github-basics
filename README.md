@@ -21,6 +21,8 @@
 4. Commit your changes with a brief and meaningful message.
 5. Push up the changes to **your forked version of the repository**.
 
-![Startup Institute](https://github.com/StartupInstitute/git-and_github-basics/blob/master/si-logo.png)
+![Mario!](https://github.com/StartupInstitute/git-and_github-basics/blob/master/si-logo.png)
 
 ### Microblog: Why Version Control is Important to Me
+
+
