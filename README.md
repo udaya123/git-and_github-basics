@@ -13,7 +13,7 @@
 
 
 #### Put Your Knowledge to Practice
-> Now that you understand the basics;
+> Now that you understand the start.
 
 >1. Pull down your forked copy of this repository.
 2. Update this markdown file to replace the following image with an image of your choosing. I hear [Giphy](http://giphy.com/) has some pretty great stuff.
