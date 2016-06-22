@@ -16,7 +16,7 @@
 2. Update this markdown file to replace the following image with an image of your choosing. I hear [Giphy](http://giphy.com/) has some pretty great stuff.
 3. Take a moment to blog below why version control is important to you. Put your own spin on your explanation.
 4. Commit your changes with a brief and meaningful message.
-5. Push up the changes to **your forked version of the repository**.
+5. Push up the changes to **your f;the repository**.
 
 ![Mario!](https://github.com/StartupInstitute/git-and_github-basics/blob/master/si-logo.png)
 
